@@ -6,3 +6,5 @@ complicado hacerlo desde el servidor central a los nucleos, por lo que la estrat
 tengan un repositorio propio de los videos que va a proyectar, de forma que el servidor central unicamente sincronice 
 la presentación de esos videos indicandole el video a proyectar, el momento en que se proyectara y el minuto del vidoe 
 en el que iniciara la presentación.
+
+Esta aplicación radicara tanto en el servidor central como en cada uno de los raspberrys, y estara desarrollado en Java.
